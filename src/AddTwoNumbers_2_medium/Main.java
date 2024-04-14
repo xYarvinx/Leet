@@ -1,7 +1,5 @@
-package AddTwoNumbers_2;
+package AddTwoNumbers_2_medium;
 
-import AddTwoNumbers_2.ListNode;
-import AddTwoNumbers_2.Solution;
 
 public class Main {
     public static void fillNode(ListNode l1, int[] n) {
