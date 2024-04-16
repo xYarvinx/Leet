@@ -6,4 +6,5 @@ public class Main {
         Solution c = new Solution();
         System.out.print(c.getSum(1,2));
     }
+    //
 }

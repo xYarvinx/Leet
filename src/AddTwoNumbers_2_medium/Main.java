@@ -32,7 +32,6 @@ public class Main {
         Solution l = new Solution();
         ListNode listF = l.addTwoNumbers(n1,n2);
         printNode(listF);
-        System.gc();
     }
 
 
